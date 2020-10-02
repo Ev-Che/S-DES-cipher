@@ -1,0 +1,21 @@
+11:33:00 AM: KEYS:
+	K1 = 01001101
+	K2 = 11100100
+11:33:01 AM: Text to bin: 01100001
+11:33:01 AM: Plain text: 01100001
+11:33:01 AM: After IP: 10100100
+11:33:01 AM: After EP: 00101000
+11:33:01 AM: After XOR(E/P, key): 01100101
+11:33:01 AM: After tables: 1001
+11:33:01 AM: After p4: 0101
+11:33:01 AM: After XOR(L, P4): 1111
+11:33:01 AM: SW: 01001111
+11:33:01 AM: After EP: 11111111
+11:33:01 AM: After XOR(E/P, key): 00011011
+11:33:01 AM: After tables: 1101
+11:33:01 AM: After p4: 1101
+11:33:01 AM: After XOR(L, P4): 1001
+11:33:01 AM: After second loop: 10011111
+11:33:01 AM: Bin to text: 219
+11:33:01 AM: Result: Û
+11:33:01 AM: Bin to text: 219
