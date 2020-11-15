@@ -1,21 +1,131 @@
-11:33:00 AM: KEYS:
-	K1 = 01001101
-	K2 = 11100100
-11:33:01 AM: Text to bin: 01100001
-11:33:01 AM: Plain text: 01100001
-11:33:01 AM: After IP: 10100100
-11:33:01 AM: After EP: 00101000
-11:33:01 AM: After XOR(E/P, key): 01100101
-11:33:01 AM: After tables: 1001
-11:33:01 AM: After p4: 0101
-11:33:01 AM: After XOR(L, P4): 1111
-11:33:01 AM: SW: 01001111
-11:33:01 AM: After EP: 11111111
-11:33:01 AM: After XOR(E/P, key): 00011011
-11:33:01 AM: After tables: 1101
-11:33:01 AM: After p4: 1101
-11:33:01 AM: After XOR(L, P4): 1001
-11:33:01 AM: After second loop: 10011111
-11:33:01 AM: Bin to text: 219
-11:33:01 AM: Result: Û
-11:33:01 AM: Bin to text: 219
+10:18:13 PM: KEYS:
+	K1 = 01001111
+	K2 = 11101100
+10:18:14 PM: Text to bin: 11011111
+10:18:14 PM: Plain text: 11011111
+10:18:14 PM: After IP: 11011111
+10:18:14 PM: After EP: 11111111
+10:18:14 PM: After XOR(E/P, key): 00010011
+10:18:14 PM: After tables: 1100
+10:18:14 PM: After p4: 1001
+10:18:14 PM: After XOR(L, P4): 0100
+10:18:14 PM: SW: 11110100
+10:18:14 PM: After EP: 00101000
+10:18:14 PM: After XOR(E/P, key): 01100111
+10:18:14 PM: After tables: 1011
+10:18:14 PM: After p4: 0111
+10:18:14 PM: After XOR(L, P4): 1000
+10:18:14 PM: After second loop: 10000100
+10:18:14 PM: Result: A
+10:18:14 PM: Text to bin: 01000100
+10:18:14 PM: Plain text: 01000100
+10:18:14 PM: After IP: 11000000
+10:18:14 PM: After EP: 00000000
+10:18:14 PM: After XOR(E/P, key): 11101100
+10:18:14 PM: After tables: 1101
+10:18:14 PM: After p4: 1101
+10:18:14 PM: After XOR(L, P4): 0001
+10:18:14 PM: SW: 00000001
+10:18:14 PM: After EP: 10000010
+10:18:14 PM: After XOR(E/P, key): 11001101
+10:18:14 PM: After tables: 0100
+10:18:14 PM: After p4: 1000
+10:18:14 PM: After XOR(L, P4): 1000
+10:18:14 PM: After second loop: 10000001
+10:18:14 PM: Result: B
+10:18:14 PM: Text to bin: 01100011
+10:18:14 PM: Plain text: 01100011
+10:18:14 PM: After IP: 10100101
+10:18:14 PM: After EP: 10101010
+10:18:14 PM: After XOR(E/P, key): 01000110
+10:18:14 PM: After tables: 1111
+10:18:14 PM: After p4: 1111
+10:18:14 PM: After XOR(L, P4): 0101
+10:18:14 PM: SW: 01010101
+10:18:14 PM: After EP: 10101010
+10:18:14 PM: After XOR(E/P, key): 11100101
+10:18:14 PM: After tables: 1101
+10:18:14 PM: After p4: 1101
+10:18:14 PM: After XOR(L, P4): 1000
+10:18:14 PM: After second loop: 10000101
+10:18:14 PM: Result: C
+10:18:14 PM: Text to bin: 01011000
+10:18:14 PM: Plain text: 01011000
+10:18:14 PM: After IP: 10001010
+10:18:14 PM: After EP: 01010101
+10:18:14 PM: After XOR(E/P, key): 10111001
+10:18:14 PM: After tables: 0110
+10:18:14 PM: After p4: 1010
+10:18:14 PM: After XOR(L, P4): 0010
+10:18:14 PM: SW: 10100010
+10:18:14 PM: After EP: 00010100
+10:18:14 PM: After XOR(E/P, key): 01011011
+10:18:14 PM: After tables: 0101
+10:18:14 PM: After p4: 1100
+10:18:14 PM: After XOR(L, P4): 0110
+10:18:14 PM: After second loop: 01100010
+10:18:14 PM: Result: ,
+10:18:14 PM: Text to bin: 01110111
+10:18:14 PM: Plain text: 01110111
+10:18:14 PM: After IP: 11101101
+10:18:14 PM: After EP: 11101011
+10:18:14 PM: After XOR(E/P, key): 00000111
+10:18:14 PM: After tables: 0111
+10:18:14 PM: After p4: 1110
+10:18:14 PM: After XOR(L, P4): 0000
+10:18:14 PM: SW: 11010000
+10:18:14 PM: After EP: 00000000
+10:18:14 PM: After XOR(E/P, key): 01001111
+10:18:14 PM: After tables: 1111
+10:18:14 PM: After p4: 1111
+10:18:14 PM: After XOR(L, P4): 0010
+10:18:14 PM: After second loop: 00100000
+10:18:14 PM: Result:  
+10:18:14 PM: Text to bin: 01100011
+10:18:14 PM: Plain text: 01100011
+10:18:14 PM: After IP: 10100101
+10:18:14 PM: After EP: 10101010
+10:18:14 PM: After XOR(E/P, key): 01000110
+10:18:14 PM: After tables: 1111
+10:18:14 PM: After p4: 1111
+10:18:14 PM: After XOR(L, P4): 0101
+10:18:14 PM: SW: 01010101
+10:18:14 PM: After EP: 10101010
+10:18:14 PM: After XOR(E/P, key): 11100101
+10:18:14 PM: After tables: 1101
+10:18:14 PM: After p4: 1101
+10:18:14 PM: After XOR(L, P4): 1000
+10:18:14 PM: After second loop: 10000101
+10:18:14 PM: Result: C
+10:18:14 PM: Text to bin: 01000100
+10:18:14 PM: Plain text: 01000100
+10:18:14 PM: After IP: 11000000
+10:18:14 PM: After EP: 00000000
+10:18:14 PM: After XOR(E/P, key): 11101100
+10:18:14 PM: After tables: 1101
+10:18:14 PM: After p4: 1101
+10:18:14 PM: After XOR(L, P4): 0001
+10:18:14 PM: SW: 00000001
+10:18:14 PM: After EP: 10000010
+10:18:14 PM: After XOR(E/P, key): 11001101
+10:18:14 PM: After tables: 0100
+10:18:14 PM: After p4: 1000
+10:18:14 PM: After XOR(L, P4): 1000
+10:18:14 PM: After second loop: 10000001
+10:18:14 PM: Result: B
+10:18:14 PM: Text to bin: 11011111
+10:18:14 PM: Plain text: 11011111
+10:18:14 PM: After IP: 11011111
+10:18:14 PM: After EP: 11111111
+10:18:14 PM: After XOR(E/P, key): 00010011
+10:18:14 PM: After tables: 1100
+10:18:14 PM: After p4: 1001
+10:18:14 PM: After XOR(L, P4): 0100
+10:18:14 PM: SW: 11110100
+10:18:14 PM: After EP: 00101000
+10:18:14 PM: After XOR(E/P, key): 01100111
+10:18:14 PM: After tables: 1011
+10:18:14 PM: After p4: 0111
+10:18:14 PM: After XOR(L, P4): 1000
+10:18:14 PM: After second loop: 10000100
+10:18:14 PM: Result: A

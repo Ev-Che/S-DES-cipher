@@ -16,7 +16,7 @@ class Cipher:
         logging.info('Text to bin: {}'.format(tools.format_to_str(self.plain_text)))
 
     def __bin_to_text(self):
-        logging.info('Bin to text: {}'.format(int(''.join(self.plain_text), 2)))
+        # logging.info('Bin to text: {}'.format(int(''.join(self.plain_text), 2)))
         return chr(int(''.join(self.plain_text), 2))
 
     def __ip(self):
